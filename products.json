@@ -1,0 +1,962 @@
+[
+	{
+		"slug": "potted-dahlia",
+		"name": "Potted Dahlia",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": true,
+		"badge": "6 colours",
+		"level": "easy",
+		"light": [
+			"full-sun"
+		],
+		"space": [
+			"balcony",
+			"garden"
+		],
+		"water": "often",
+		"pets": false,
+		"made": false,
+		"short": "<p>Big, full blooms grown in our greenhouse, in reds, yellows, pinks and orange. Ready to flower on your balcony, driveway or garden bed.</p>",
+		"desc": "<p>Dahlia season is when our greenhouse looks its best. Every plant leaves us in its grower's pot with buds and open blooms, so you see the exact colour you're getting.</p><p>Plant it in a sunny bed or a big pot on the balcony, and snip off spent flowers to keep new ones coming. <em>\"Which dahlia bloom would look nice in your garden, balcony or driveway?\"</em></p>",
+		"care": {
+			"light": "At least 6 hours of direct sun a day.",
+			"water": "Water deeply 2–3 times a week in dry weather and let the top few centimetres dry in between. Never leave the pot standing in water.",
+			"feed": "A flowering (high-potash) feed every 2 weeks while it blooms.",
+			"repot": "Move it into a 25–30 cm pot or a garden bed within a few weeks. Tall varieties need a stake.",
+			"pets": "Mildly toxic to cats and dogs (stomach upset, skin irritation). Keep it out of reach."
+		},
+		"upsells": [
+			"zonal-geranium",
+			"petunia",
+			"marguerite-daisy"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Scarlet Red",
+					"Sunshine Yellow",
+					"Hot Pink",
+					"Blush Pink",
+					"Orange & Peach",
+					"Coral"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Scarlet Red"
+				},
+				"regular": "750",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Colour": "Sunshine Yellow"
+				},
+				"regular": "750",
+				"sale": "",
+				"img": 2
+			},
+			{
+				"attrs": {
+					"Colour": "Hot Pink"
+				},
+				"regular": "750",
+				"sale": "",
+				"img": 3
+			},
+			{
+				"attrs": {
+					"Colour": "Blush Pink"
+				},
+				"regular": "750",
+				"sale": "",
+				"img": 4
+			},
+			{
+				"attrs": {
+					"Colour": "Orange & Peach"
+				},
+				"regular": "750",
+				"sale": "",
+				"img": 5
+			},
+			{
+				"attrs": {
+					"Colour": "Coral"
+				},
+				"regular": "750",
+				"sale": "",
+				"img": 6
+			}
+		],
+		"photos": [
+			"C1q_Mtuo7PW-1",
+			"C1q_Mtuo7PW-3",
+			"C1q_Mtuo7PW-5",
+			"C1q_Mtuo7PW-4",
+			"C1q_Mtuo7PW-6",
+			"C1q_Mtuo7PW-8",
+			"C1q_Mtuo7PW-2",
+			"C1q_Mtuo7PW-9"
+		]
+	},
+	{
+		"slug": "zonal-geranium",
+		"name": "Zonal Geranium",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": true,
+		"badge": "3 colours",
+		"level": "beginner",
+		"light": [
+			"full-sun"
+		],
+		"space": [
+			"balcony",
+			"garden"
+		],
+		"water": "weekly",
+		"pets": false,
+		"made": false,
+		"short": "<p>Hardy geraniums that love Nairobi sun and flower almost all year. For window boxes, balconies and borders.</p>",
+		"desc": "<p><em>\"It is geranium season and we've got more varieties than the slides above.\"</em> These are the colours from our latest batch; message us and we'll tell you what else is flowering in the greenhouse.</p><p>Geraniums forgive a missed watering, flower for months and look good in terracotta, window boxes and garden borders.</p>",
+		"care": {
+			"light": "At least 6 hours of direct sun a day.",
+			"water": "Water when the top 2 cm of soil is dry, about once or twice a week. They hate soggy soil.",
+			"feed": "A flowering feed once a month. Pinch off faded flower heads.",
+			"repot": "Repot into a pot one size bigger once roots show at the drainage holes.",
+			"pets": "Toxic to cats and dogs (stomach upset, skin irritation). Keep it out of reach."
+		},
+		"upsells": [
+			"variegated-geranium",
+			"petunia",
+			"potted-dahlia"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Scarlet Red",
+					"Soft Pink",
+					"Rose & White"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Scarlet Red"
+				},
+				"regular": "450",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Colour": "Soft Pink"
+				},
+				"regular": "450",
+				"sale": "",
+				"img": 2
+			},
+			{
+				"attrs": {
+					"Colour": "Rose & White"
+				},
+				"regular": "450",
+				"sale": "",
+				"img": 3
+			}
+		],
+		"photos": [
+			"C19C1NoIoOp-6",
+			"C19C1NoIoOp-3",
+			"C19C1NoIoOp-2",
+			"C19C1NoIoOp-1",
+			"C19C1NoIoOp-5"
+		]
+	},
+	{
+		"slug": "variegated-geranium",
+		"name": "Variegated Geranium",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": false,
+		"badge": "Cream-edged leaves",
+		"level": "beginner",
+		"light": [
+			"full-sun"
+		],
+		"space": [
+			"balcony",
+			"garden"
+		],
+		"water": "weekly",
+		"pets": false,
+		"made": false,
+		"short": "<p>Geraniums with cream-edged leaves and salmon or pink flowers, so they look good even between blooms.</p>",
+		"desc": "<p>The cream-and-green leaves make these geraniums a feature on their own, and the flowers are a bonus. Lovely in window boxes and mixed pots with petunias.</p>",
+		"care": {
+			"light": "At least 6 hours of direct sun a day.",
+			"water": "Water when the top 2 cm of soil is dry. Keep water off the leaves.",
+			"feed": "A flowering feed once a month.",
+			"repot": "Repot one size up when roots fill the pot.",
+			"pets": "Toxic to cats and dogs (stomach upset, skin irritation). Keep it out of reach."
+		},
+		"upsells": [
+			"zonal-geranium",
+			"fuchsia",
+			"petunia"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Salmon",
+					"Pink"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Salmon"
+				},
+				"regular": "500",
+				"sale": "",
+				"img": 0
+			},
+			{
+				"attrs": {
+					"Colour": "Pink"
+				},
+				"regular": "500",
+				"sale": "",
+				"img": 1
+			}
+		],
+		"photos": [
+			"C19C1NoIoOp-4",
+			"C19C1NoIoOp-7"
+		]
+	},
+	{
+		"slug": "fuchsia",
+		"name": "Fuchsia",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": true,
+		"badge": "5 colours",
+		"level": "easy",
+		"light": [
+			"bright-indirect"
+		],
+		"space": [
+			"balcony",
+			"hanging"
+		],
+		"water": "often",
+		"pets": true,
+		"made": false,
+		"short": "<p>Dangling, ballerina-like blooms for shaded balconies and hanging baskets, from our wide range of fuchsias.</p>",
+		"desc": "<p><em>\"Our wide range of fuchsia flowers.\"</em> Singles and doubles in white, pinks, reds and purples, all grown by us. Fuchsias flower best somewhere bright but sheltered from the hot afternoon sun, which makes them perfect for verandas and balconies.</p><p>The pale pink trailing fuchsia was the customers' favourite at our first pop-up sale at Peponi.</p>",
+		"care": {
+			"light": "Morning sun and afternoon shade, or bright light under a veranda. Hot afternoon sun scorches the flowers.",
+			"water": "Keep the soil evenly moist: water when the surface feels dry, more often in hanging baskets.",
+			"feed": "A flowering feed every 2 weeks from bud to the end of flowering.",
+			"repot": "Repot or move into a hanging basket after buying. Pinch the tips to make it bushier.",
+			"pets": "Not toxic to cats and dogs (ASPCA)."
+		},
+		"upsells": [
+			"petunia",
+			"spider-plant",
+			"variegated-geranium"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Snow White",
+					"Blush Pink",
+					"Ruby Red",
+					"Purple & Magenta",
+					"Purple & White"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Snow White"
+				},
+				"regular": "650",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Colour": "Blush Pink"
+				},
+				"regular": "650",
+				"sale": "",
+				"img": 2
+			},
+			{
+				"attrs": {
+					"Colour": "Ruby Red"
+				},
+				"regular": "650",
+				"sale": "",
+				"img": 3
+			},
+			{
+				"attrs": {
+					"Colour": "Purple & Magenta"
+				},
+				"regular": "650",
+				"sale": "",
+				"img": 4
+			},
+			{
+				"attrs": {
+					"Colour": "Purple & White"
+				},
+				"regular": "650",
+				"sale": "",
+				"img": 5
+			}
+		],
+		"photos": [
+			"CvhZrt5o4XE-5",
+			"CvhZrt5o4XE-10",
+			"CvhZrt5o4XE-2",
+			"CvhZrt5o4XE-7",
+			"CvhZrt5o4XE-8",
+			"CvhZrt5o4XE-9",
+			"CrGsOfHM-r5-2"
+		]
+	},
+	{
+		"slug": "petunia",
+		"name": "Petunia",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": false,
+		"badge": "4 colours",
+		"level": "beginner",
+		"light": [
+			"full-sun"
+		],
+		"space": [
+			"balcony",
+			"hanging",
+			"garden"
+		],
+		"water": "often",
+		"pets": true,
+		"made": false,
+		"short": "<p>Masses of trumpet flowers all season, for sunny balconies, window boxes and hanging baskets.</p>",
+		"desc": "<p><em>\"Same flower, different blooms.\"</em> Velvety burgundy, pure white, pink stars and lilac with dark veins. Petunias flower non-stop in a sunny spot and spill beautifully over the edge of pots and baskets.</p>",
+		"care": {
+			"light": "At least 6 hours of direct sun a day.",
+			"water": "Water when the top of the soil is dry, daily in hot weather for small pots and baskets.",
+			"feed": "A flowering feed every 1–2 weeks keeps them blooming.",
+			"repot": "Plant 3 or more together in a window box or basket for a full look.",
+			"pets": "Not toxic to cats and dogs (ASPCA)."
+		},
+		"upsells": [
+			"fuchsia",
+			"zonal-geranium",
+			"african-daisy"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Velvet Burgundy",
+					"Pure White",
+					"Pink Star",
+					"Lilac Vein"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Velvet Burgundy"
+				},
+				"regular": "350",
+				"sale": "",
+				"img": 0
+			},
+			{
+				"attrs": {
+					"Colour": "Pure White"
+				},
+				"regular": "350",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Colour": "Pink Star"
+				},
+				"regular": "350",
+				"sale": "",
+				"img": 2
+			},
+			{
+				"attrs": {
+					"Colour": "Lilac Vein"
+				},
+				"regular": "350",
+				"sale": "",
+				"img": 3
+			}
+		],
+		"photos": [
+			"CvcQIjAIMAZ-1",
+			"CvcQIjAIMAZ-2",
+			"CvcQIjAIMAZ-3",
+			"CvcQIjAIMAZ-4"
+		]
+	},
+	{
+		"slug": "african-daisy",
+		"name": "African Daisy (Osteospermum)",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": false,
+		"badge": "Sun lover",
+		"level": "beginner",
+		"light": [
+			"full-sun"
+		],
+		"space": [
+			"garden",
+			"balcony"
+		],
+		"water": "weekly",
+		"pets": false,
+		"made": false,
+		"short": "<p>Purple, pink and white daisies that open wide in the sun. Tough, low-water and great for borders and sunny pots.</p>",
+		"desc": "<p><em>\"Daisies and the sun are a match made in heaven! The blooms are to wow at!\"</em> Our African daisies are raised in the greenhouse until they're full of buds, then they're ready for your garden.</p><p>Once settled in, they cope well with dry spells, which makes them a good choice for sunny beds and driveways.</p>",
+		"care": {
+			"light": "At least 6 hours of direct sun a day. The flowers close on cloudy days and at night.",
+			"water": "Water weekly once established; a little more often in pots.",
+			"feed": "A light flowering feed once a month.",
+			"repot": "Plant in well-drained soil. Trim back lightly after a flush of flowers.",
+			"pets": "Not on the ASPCA toxic list, but we'd still keep pets from chewing it."
+		},
+		"upsells": [
+			"marguerite-daisy",
+			"petunia",
+			"potted-dahlia"
+		],
+		"regular": "400",
+		"photos": [
+			"CvJXmUDIf8Y-1",
+			"CvbdvYjIHJ4-1"
+		]
+	},
+	{
+		"slug": "marguerite-daisy",
+		"name": "Marguerite Daisy",
+		"cat": [
+			"flowering-plants"
+		],
+		"featured": false,
+		"badge": "2 colours",
+		"level": "easy",
+		"light": [
+			"full-sun"
+		],
+		"space": [
+			"balcony",
+			"garden"
+		],
+		"water": "often",
+		"pets": false,
+		"made": false,
+		"short": "<p>A dome of cheerful daisies in classic white or butter yellow. Our own favourite at the pop-ups.</p>",
+		"desc": "<p>Marguerites make a neat, rounded bush that's covered in daisies for months. The white one was <em>\"Our fave!!\"</em> at our first pop-up at Peponi, and the yellow one stole the show at the Shamba Christmas Market.</p>",
+		"care": {
+			"light": "At least 6 hours of direct sun a day.",
+			"water": "Water when the top of the soil is dry; pots in full sun may need it every other day.",
+			"feed": "A flowering feed every 2 weeks.",
+			"repot": "Cut back by a third after flowering to keep it compact and blooming.",
+			"pets": "Daisies in this family can upset cats' and dogs' stomachs. Keep it out of reach."
+		},
+		"upsells": [
+			"african-daisy",
+			"potted-dahlia",
+			"zonal-geranium"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Classic White",
+					"Butter Yellow"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Classic White"
+				},
+				"regular": "450",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Colour": "Butter Yellow"
+				},
+				"regular": "450",
+				"sale": "",
+				"img": 2
+			}
+		],
+		"photos": [
+			"hl-peponi-pop-up-3",
+			"CrGsOfHM-r5-1",
+			"hl-shamba-pop-up-2"
+		]
+	},
+	{
+		"slug": "poinsettia",
+		"name": "Poinsettia (size 12 pot)",
+		"cat": [
+			"flowering-plants",
+			"gifts"
+		],
+		"featured": true,
+		"badge": "Christmas season",
+		"level": "easy",
+		"light": [
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"gift"
+		],
+		"water": "weekly",
+		"pets": false,
+		"made": false,
+		"short": "<p>Christmas season = Poinsettia season. Full, bright plants in a size 12 pot, grown by us for your home or as a gift.</p>",
+		"desc": "<p><em>\"Christmas season 🎄 = Poinsettia Season.\"</em> Our poinsettias are the all-time customers' favourite every December, in classic red and soft cream. They come in a size 12 pot, just right for a side table, a reception desk or a gift.</p><p>Stock is limited each season, so order early. Message us for bigger quantities for offices and events.</p>",
+		"care": {
+			"light": "Bright, indirect light: near a window, out of hot direct sun. Keep it away from cold draughts.",
+			"water": "Water when the top of the soil feels dry, then let it drain. Overwatering is the most common problem.",
+			"feed": "No feeding needed while it's in colour.",
+			"repot": "Not needed for the season. Keep it in its pot through Christmas.",
+			"pets": "Mildly toxic to cats and dogs; the milky sap irritates mouth and skin."
+		},
+		"upsells": [
+			"echeveria-succulent",
+			"succulent-heart",
+			"mini-plant-trio"
+		],
+		"attributes": [
+			{
+				"name": "Colour",
+				"options": [
+					"Christmas Red",
+					"Cream"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Colour": "Christmas Red"
+				},
+				"regular": "900",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Colour": "Cream"
+				},
+				"regular": "900",
+				"sale": "",
+				"img": 2
+			}
+		],
+		"photos": [
+			"DC9o5b1IM_a-1",
+			"DC9o5b1IM_a-3",
+			"hl-shamba-pop-up-7",
+			"DC9o5b1IM_a-6",
+			"DC9o5b1IM_a-5"
+		]
+	},
+	{
+		"slug": "spider-plant",
+		"name": "Spider Plant",
+		"cat": [
+			"indoor-plants"
+		],
+		"featured": true,
+		"badge": "Pet-safe",
+		"level": "beginner",
+		"light": [
+			"low-light",
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"office",
+			"hanging"
+		],
+		"water": "weekly",
+		"pets": true,
+		"made": false,
+		"short": "<p>The easiest houseplant there is. Arching striped leaves and baby plantlets that spill from a shelf or hanging pot.</p>",
+		"desc": "<p><em>\"Just another plant appreciation post.\"</em> Spider plants grow happily in most rooms, bounce back from a missed watering, and make baby plants you can pot up and give away.</p><p>Hang it on a wall bracket or let it trail from a shelf. On a balcony it does best in the shade.</p>",
+		"care": {
+			"light": "Happy in low to bright indirect light. Keep it out of hot direct sun, which bleaches the leaves.",
+			"water": "Water when the top half of the soil is dry, about once a week.",
+			"feed": "A houseplant feed once a month in the warm months.",
+			"repot": "Repot every year or two when roots push out of the pot. Pot up the babies in small pots of their own.",
+			"pets": "Not toxic to cats and dogs (ASPCA). Cats love to chew it, though."
+		},
+		"upsells": [
+			"raindrop-peperomia",
+			"hoya",
+			"echeveria-succulent"
+		],
+		"regular": "600",
+		"photos": [
+			"CvL8aMrIU3K-1",
+			"CvMfXahoLph-1"
+		]
+	},
+	{
+		"slug": "raindrop-peperomia",
+		"name": "Raindrop Peperomia (\"Money Plant\")",
+		"cat": [
+			"indoor-plants"
+		],
+		"featured": false,
+		"badge": "Pet-safe",
+		"level": "beginner",
+		"light": [
+			"low-light",
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"office"
+		],
+		"water": "rarely",
+		"pets": true,
+		"made": false,
+		"short": "<p>Glossy, heart-shaped leaves on a compact plant. A desk and shelf favourite that stores water in its leaves.</p>",
+		"desc": "<p><em>\"We call it Peperomia. Some call it the 'Money plant'. What do you call it?\"</em> It stays compact, so it suits desks, bookshelves and bathrooms, and its thick leaves hold water, so it forgives the odd missed watering.</p>",
+		"care": {
+			"light": "Happy in low to bright indirect light. Keep it out of hot direct sun, which bleaches the leaves.",
+			"water": "Every 1–2 weeks, when the soil is dry most of the way down. Too much water rots the stems.",
+			"feed": "A houseplant feed every 6–8 weeks.",
+			"repot": "It likes a snug pot; repot only every 2–3 years.",
+			"pets": "Not toxic to cats and dogs (ASPCA)."
+		},
+		"upsells": [
+			"spider-plant",
+			"hoya",
+			"mini-plant-trio"
+		],
+		"regular": "500",
+		"photos": [
+			"hl-kcb-pop-up-3"
+		]
+	},
+	{
+		"slug": "hoya",
+		"name": "Hoya (Wax Plant)",
+		"cat": [
+			"indoor-plants",
+			"succulents"
+		],
+		"featured": false,
+		"badge": "Trailing",
+		"level": "easy",
+		"light": [
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"hanging",
+			"office"
+		],
+		"water": "rarely",
+		"pets": true,
+		"made": false,
+		"short": "<p>Thick, waxy leaves on long trailing vines that climb a hoop or tumble from a shelf. Semi-succulent and easy-going.</p>",
+		"desc": "<p>Hoyas send out long vines that you can train up a hoop or let trail down. Their thick leaves store water, so they're easy to look after, and a happy plant in bright light can flower with clusters of star-shaped blooms.</p>",
+		"care": {
+			"light": "Bright, indirect light: near a window, out of hot direct sun.",
+			"water": "Let the soil dry out almost completely, then water well: every 1–2 weeks.",
+			"feed": "A houseplant feed once a month in the warm months.",
+			"repot": "Hoyas like being snug in their pot. Don't cut off the bare vine tips: that's where flowers form.",
+			"pets": "Not toxic to cats and dogs (ASPCA)."
+		},
+		"upsells": [
+			"spider-plant",
+			"raindrop-peperomia",
+			"echeveria-succulent"
+		],
+		"regular": "650",
+		"photos": [
+			"CoNWpdeIGFk-1"
+		]
+	},
+	{
+		"slug": "echeveria-succulent",
+		"name": "Echeveria Succulent",
+		"cat": [
+			"succulents"
+		],
+		"featured": true,
+		"badge": "Set of 4 saves 20%",
+		"level": "beginner",
+		"light": [
+			"full-sun",
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"office",
+			"balcony",
+			"gift"
+		],
+		"water": "rarely",
+		"pets": true,
+		"made": false,
+		"short": "<p>A perfect rosette for a sunny windowsill or desk. Buy one, or a set of four at KSh 200 each.</p>",
+		"desc": "<p><em>\"Plants can't solve all problems, but they are a great start.\"</em> Our echeverias are grown in the greenhouse until they form full, tight rosettes. One brightens a desk; a set of four makes a windowsill display or four small gifts.</p>",
+		"care": {
+			"light": "As much light as you can give it: a sunny windowsill or a balcony. In too little light it stretches and loses its shape.",
+			"water": "Water thoroughly only when the soil is completely dry, every 2–3 weeks. Never let it sit in water.",
+			"feed": "A cactus feed 2–3 times a year is plenty.",
+			"repot": "Use gritty cactus soil in a pot with a drainage hole.",
+			"pets": "Not toxic to cats and dogs (ASPCA)."
+		},
+		"upsells": [
+			"ruffled-echeveria",
+			"mini-plant-trio",
+			"succulent-wood-slice"
+		],
+		"attributes": [
+			{
+				"name": "Pack",
+				"options": [
+					"Single plant",
+					"Set of 4"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Pack": "Single plant"
+				},
+				"regular": "250",
+				"sale": "",
+				"img": 1
+			},
+			{
+				"attrs": {
+					"Pack": "Set of 4"
+				},
+				"regular": "1000",
+				"sale": "800",
+				"img": 2
+			}
+		],
+		"photos": [
+			"Cvd-lTloMcp-1",
+			"CmgbeOLIOi9-1",
+			"CnrGSONouJ7-1",
+			"CntSIddoRB1-1"
+		]
+	},
+	{
+		"slug": "mini-plant-trio",
+		"name": "Mini Plant Trio",
+		"cat": [
+			"succulents",
+			"indoor-plants"
+		],
+		"featured": false,
+		"badge": "3 plants",
+		"level": "easy",
+		"light": [
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"office",
+			"gift"
+		],
+		"water": "weekly",
+		"pets": false,
+		"made": false,
+		"short": "<p>Three little plants to start a shelf collection: two succulents and a red-edged Aglaonema, at KSh 250 each.</p>",
+		"desc": "<p><em>\"Give them a new home 😊. Available at Sh250 each.\"</em> A trio of small plants in grower's pots: two different succulents and a pink-edged Aglaonema. Exact plants vary with what's ready in the greenhouse.</p>",
+		"care": {
+			"light": "Bright, indirect light: near a window, out of hot direct sun.",
+			"water": "Succulents: when the soil is completely dry. Aglaonema: when the top half of the soil is dry.",
+			"feed": "A houseplant feed every 6–8 weeks.",
+			"repot": "Pot them up together in a shallow bowl, or keep them in separate pots.",
+			"pets": "The Aglaonema is toxic to cats and dogs if chewed. Keep the trio out of reach."
+		},
+		"upsells": [
+			"echeveria-succulent",
+			"raindrop-peperomia",
+			"spider-plant"
+		],
+		"regular": "750",
+		"photos": [
+			"CouSuqYIByL-1"
+		]
+	},
+	{
+		"slug": "ruffled-echeveria",
+		"name": "Ruffled Echeveria & Friends",
+		"cat": [
+			"succulents"
+		],
+		"featured": false,
+		"badge": "KSh 400 each",
+		"level": "beginner",
+		"light": [
+			"full-sun",
+			"bright-indirect"
+		],
+		"space": [
+			"indoor",
+			"balcony",
+			"gift"
+		],
+		"water": "rarely",
+		"pets": true,
+		"made": false,
+		"short": "<p>Bigger statement succulents with frilly, blue-grey rosettes. Every plant in this range is KSh 400.</p>",
+		"desc": "<p><em>\"All plants available at Sh400 each.\"</em> Larger echeverias, including the frilly-edged ruffled type, for a coffee table, a sunny windowsill or a gift. Tell us at checkout or on WhatsApp if you'd like a particular one from the photos.</p>",
+		"care": {
+			"light": "A sunny windowsill or balcony.",
+			"water": "Water thoroughly only when the soil is completely dry, every 2–3 weeks.",
+			"feed": "A cactus feed 2–3 times a year.",
+			"repot": "Gritty cactus soil in a pot with a drainage hole.",
+			"pets": "Echeverias are not toxic to cats and dogs (ASPCA)."
+		},
+		"upsells": [
+			"echeveria-succulent",
+			"succulent-wood-slice",
+			"mini-plant-trio"
+		],
+		"regular": "400",
+		"photos": [
+			"CmgdC18Iwhx-1",
+			"hl-shamba-pop-up-3"
+		]
+	},
+	{
+		"slug": "succulent-heart",
+		"name": "Succulent Heart (made to order)",
+		"cat": [
+			"gifts",
+			"succulents"
+		],
+		"featured": true,
+		"badge": "Made to order",
+		"level": "beginner",
+		"light": [
+			"bright-indirect",
+			"full-sun"
+		],
+		"space": [
+			"gift",
+			"indoor"
+		],
+		"water": "rarely",
+		"pets": false,
+		"made": true,
+		"short": "<p>A living heart packed with rosette succulents. Our custom gift for Valentine's, anniversaries and plant lovers.</p>",
+		"desc": "<p><em>\"He told us she loved plants. We made him a heart full of succulents for her Valentine's gift 💝\"</em></p><p>Each heart is planted by hand with a mix of rosette succulents, so no two are the same. Tell us the date you need it in the note at checkout and we'll confirm when it will be ready.</p>",
+		"care": {
+			"light": "Bright light; a little direct sun keeps the colours rich.",
+			"water": "Mist or water lightly every 2 weeks; let it dry out completely in between.",
+			"feed": "Not needed.",
+			"repot": "If a rosette grows too tall, snip it and press it back into the heart.",
+			"pets": "Mixed succulents: some can upset pets' stomachs. Keep it out of reach."
+		},
+		"upsells": [
+			"succulent-wood-slice",
+			"echeveria-succulent",
+			"poinsettia"
+		],
+		"regular": "4500",
+		"photos": [
+			"C19BRvwogdt-1",
+			"C19BRvwogdt-2"
+		]
+	},
+	{
+		"slug": "succulent-wood-slice",
+		"name": "Succulent Wood-Slice Garden (made to order)",
+		"cat": [
+			"gifts",
+			"succulents"
+		],
+		"featured": false,
+		"badge": "Made to order",
+		"level": "beginner",
+		"light": [
+			"bright-indirect",
+			"full-sun"
+		],
+		"space": [
+			"gift",
+			"indoor",
+			"office"
+		],
+		"water": "rarely",
+		"pets": false,
+		"made": true,
+		"short": "<p>Little rosette succulents planted on a natural wood slice. A centrepiece for a table, a desk or a gift.</p>",
+		"desc": "<p><em>\"Our newest customs ☺️ Easy to grow and look after.\"</em> Small echeverias planted into a natural wood slice, made by hand in our greenhouse. Every piece is one of a kind.</p>",
+		"care": {
+			"light": "Bright light with some direct sun.",
+			"water": "A light watering at the roots every 2 weeks; let it dry out completely in between.",
+			"feed": "Not needed.",
+			"repot": "No repotting: snip and replant any rosette that grows leggy.",
+			"pets": "Mixed succulents: keep it out of pets' reach."
+		},
+		"upsells": [
+			"succulent-heart",
+			"echeveria-succulent",
+			"ruffled-echeveria"
+		],
+		"regular": "1800",
+		"photos": [
+			"C11Xo1QoaCt-2",
+			"C11Xo1QoaCt-1"
+		]
+	}
+]
