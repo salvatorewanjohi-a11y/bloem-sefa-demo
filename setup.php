@@ -309,8 +309,11 @@ function bs_page( $slug, $title, $content ) {
 }
 bs_page( 'wishlist', 'Your wishlist', "<!-- wp:shortcode -->\n[bs_wishlist]\n<!-- /wp:shortcode -->" );
 bs_page( 'plant-matcher', 'Find your plant', "<!-- wp:shortcode -->\n[bs_matcher]\n<!-- /wp:shortcode -->" );
-// The pop-ups and garden centre pages have their own theme templates.
-bs_page( 'pop-ups', 'Pop-ups & Garden Centre', '' );
+// These pages have their own theme templates (page-<slug>.html).
+bs_page( 'pop-ups', 'Pop-up markets', '' );
+bs_page( 'garden-centre', 'Garden Centre', '' );
+bs_page( 'about', 'Our story', '' );
+bs_page( 'faqs', 'FAQs & plant care guide', '' );
 
 update_option( 'permalink_structure', '/%postname%/' );
 flush_rewrite_rules();
